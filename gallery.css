@@ -1,0 +1,19 @@
+body{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("toronto.jpeg")
+}
+
+.gallery{
+    margin: 5px;
+    border: 1px;
+    float: bottom;
+    width: 390px;
+
+}
+.gallery img{
+    width: 100%;
+    height: auto;
+
+}
+.desc{
+    color:white;
+}

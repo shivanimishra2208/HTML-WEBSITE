@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 10px;
+    font-family: "montserrat", sans-serif;
+}
+body{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("calgary2.jpg");
+    background-size: cover;
+
+}
+
+.contact_section h1{
+    text-align: centre;
+    color: white;
+}
+
